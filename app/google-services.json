@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956071812644",
+    "project_id": "sauna-master",
+    "storage_bucket": "sauna-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956071812644:android:b23c19b527c4dc48e602b1",
+        "android_client_info": {
+          "package_name": "hu.itatti.saunamaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956071812644-04tda334bii729rdrbbdk0pe7sv30oc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xzXBSwXzVeib9hot161gXQtOTsPgsa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956071812644-04tda334bii729rdrbbdk0pe7sv30oc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
